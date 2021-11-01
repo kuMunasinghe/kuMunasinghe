@@ -4,7 +4,8 @@ I am Kasun UM.
 
 philomath 😋 from LK🇱🇰
 
-Knows; 1<strong>C++ </strong>
+Can do 💡; 
+<strong>C++, C#, Java, Python, HTML, CSS, php, javascript, React, Codeigniter, .Net, .Net.ASP, WCF,     </strong>
 
 
 
