@@ -29,7 +29,7 @@ Cloud<br>
 
 Preffered Game Engine(Novice Thing)<br>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_white.png"/>
+<img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_white.png" height=100px width=auto/>
 
 
 
