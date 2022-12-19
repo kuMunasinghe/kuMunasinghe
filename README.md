@@ -24,7 +24,7 @@ Database<br>
 
 Interested in<br>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_white.png" height=50px width=auto/>
+<img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_white.png" height=auto width=3opx/>
 
 
 
